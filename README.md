@@ -1,154 +1,88 @@
 <div align="center">
-  <h1>Tushar Temgire</h1>
-  <p>Computer Engineer | Cloud Solutions Specialist | API Troubleshooting Enthusiast</p>
+  <h1>🌟 Tushar Temgire 🌟</h1>
+  <p><strong>Cloud Engineer | Full Stack Developer | Networking Specialist</strong></p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tushartemgire)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TusharTemgire)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:temgiretushar15@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tushartemgire)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusharTemgire)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:temgiretushar15@gmail.com)
 </div>
 
 ---
 
-### About
-
-I am a Computer Engineer with expertise in AWS cloud, networking, Linux systems, and API troubleshooting. I specialize in designing and deploying scalable cloud solutions and building full-stack applications. My passion lies in solving real-world challenges in software development and cloud computing.
+## 🌐 About Me
+I am a **Computer Engineer** with expertise in **AWS Cloud**, **Linux Systems**, and **Networking Protocols**. I specialize in designing scalable cloud infrastructures and developing full-stack applications. With hands-on experience in troubleshooting APIs and solving real-world challenges, I aim to create innovative and efficient solutions in software development and cloud computing.
 
 ---
 
-### Tech Stack
+## 🛠️ Technical Skills
 
 <div align="center">
 
-  <!-- Cloud & System Tools -->
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS">
-        <br>AWS
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker">
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux">
-        <br>Linux
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git">
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python">
-        <br>Python
-      </td>
-    </tr>
-  </table>
+| **Category**            | **Technologies**                                                                                      |
+|--------------------------|------------------------------------------------------------------------------------------------------|
+| **Cloud & DevOps**       | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell Scripting](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) |
+| **Web Development**      | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
+| **Networking & Security**| ![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![VPNs](https://img.shields.io/badge/VPN-000000?style=for-the-badge&logo=wireguard&logoColor=white) ![Firewall](https://img.shields.io/badge/Firewall-FF6F00?style=for-the-badge&logo=pfsense&logoColor=white) |
+| **Languages**            | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
 
-  <!-- Web Development -->
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React">
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js">
-        <br>Next.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48" height="48" alt="Tailwind">
-        <br>Tailwind
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js">
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript">
-        <br>JavaScript
-      </td>
-    </tr>
-  </table>
-
-  <!-- Networking -->
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="48" height="48" alt="Networking">
-        <br>CCNA
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL">
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB">
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash">
-        <br>Bash
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
 
-### Current Focus
+## 📌 Highlighted Projects
+
+### 🔐 **Graphical Password Authentication Security**
+- **Duration**: Oct 2022 - Jun 2023  
+- **Description**: Developed a secure web application with three types of password systems. Integrated OTP login using Java for enhanced security. Designed for seamless implementation on any website.  
+
+### 📝 **Project & Task Management Platform**
+- **Duration**: Jan 2025 - Present  
+- **Description**: A project management tool to create projects, track tasks, and upload files.  
+- **Tech Stack**: React.js, Next.js, Tailwind CSS, AWS EC2.  
+
+---
+
+## 🎓 Certifications
+
+- **CCNA Certified Computer Networking Associate**  
+  *Expertise in IP protocols, switches, routing, and network troubleshooting*  
+  *(Aug 2023 - Oct 2023)*  
+
+- **Amazon Web Services (AWS)**  
+  *Proficient in EC2, S3, RDS, Lambda, and CloudFormation*  
+  *(Jul 2024 - Sep 2024)*  
+
+- **Redhat Linux Training**  
+  *Skilled in Linux system administration and shell scripting.*  
+
+- **Java Full Stack Development**  
+  *Mastery in Core Java, Hibernate, Spring, and web development.*  
+  *(Sep 2022 - Jan 2023)*  
+
+---
+
+## 🌱 Current Learning Goals
 
 ```yaml
-Learning:
-  - Advanced AWS Services
-  - Kubernetes & Docker Orchestration
-  - Full-Stack Cloud Applications
-  - Networking and Security Protocols
+- Advanced AWS Services: Auto Scaling, CloudFormation, Beanstalk
+- Docker & Kubernetes Orchestration
+- Full-Stack Cloud Applications
+- Networking Protocols & Security Enhancements
 ```
 
 ---
 
-### Projects
-
-- **Graphical Password Authentication Security**  
-  Developed a web application with three types of password protection systems, including OTP login functionality using Java.  
-  *[Duration: 10/2022 - 06/2023]*
-
-- **Project & Task Management**  
-  A robust platform to create projects, manage tasks, and upload files.  
-  *[Duration: 01/2025 - Present]*  
-  *Technologies: React.js, Next.js, Tailwind CSS, AWS EC2*
-
----
-
-### Certifications
-
-- **CCNA Certified Computer Networking Associate**  
-  Expertise in IP protocols, switches, routing, and network troubleshooting.  
-  *[08/2023 - 10/2023]*
-
-- **Amazon Web Services (AWS)**  
-  Proficient in EC2, S3, RDS, Lambda, and CloudFormation.  
-  *[07/2024 - 09/2024]*
-
-- **Redhat Linux Training**  
-  Skilled in Linux system administration and shell scripting.
-
-- **Java Full Stack Development**  
-  Mastery in Core Java, Hibernate, Spring, and web development.  
-  *[09/2022 - 01/2023]*
-
----
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharTemgire&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&hide=stars,issues" width="48%" alt="Stats"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharTemgire&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="95%" alt="Activity"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharTemgire&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6F61&icon_color=FAD000&text_color=FFFFFF&hide=stars,issues" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharTemgire&theme=rogue&hide_border=true&bg_color=0D1117&color=FAD000&line=FF6F61&point=FFFFFF" width="95%" alt="Activity Graph" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Eager to solve real-world challenges in software development and cloud computing.</sub>
+  <sub>💻 Passionate about building innovative cloud-based solutions and solving real-world challenges. 🌍</sub>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=TusharTemgire&color=58A6FF&style=flat-square&label=Views"/>
+  <img src="https://komarev.com/ghpvc/?username=TusharTemgire&color=blueviolet&style=for-the-badge&label=Profile+Views" />
 </div>
