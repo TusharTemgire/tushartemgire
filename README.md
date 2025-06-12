@@ -126,38 +126,6 @@ Learning:
 
 ---
 
-### Projects
-
-- **Graphical Password Authentication Security**  
-  Developed a web application with three types of password protection systems, including OTP login functionality using Java.  
-  *[Duration: 10/2022 - 06/2023]*
-
-- **Project & Task Management**  
-  A robust platform to create projects, manage tasks, and upload files.  
-  *[Duration: 01/2025 - Present]*  
-  *Technologies: React.js, Next.js, Tailwind CSS, AWS EC2*
-
----
-
-### Certifications
-
-- **CCNA Certified Computer Networking Associate**  
-  Expertise in IP protocols, switches, routing, and network troubleshooting.  
-  *[08/2023 - 10/2023]*
-
-- **Amazon Web Services (AWS)**  
-  Proficient in EC2, S3, RDS, Lambda, and CloudFormation.  
-  *[07/2024 - 09/2024]*
-
-- **Redhat Linux Training**  
-  Skilled in Linux system administration and shell scripting.
-
-- **Java Full Stack Development**  
-  Mastery in Core Java, Hibernate, Spring, and web development.  
-  *[09/2022 - 01/2023]*
-
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TusharTemgire&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&hide=stars,issues" width="48%" alt="Stats"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharTemgire&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="95%" alt="Activity"/>
