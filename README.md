@@ -1,7 +1,17 @@
-<div align="center">
-  <h1>Tushar Temgire</h1>
-  <p>Computer Engineer | Cloud Solutions Specialist | Software Development | API Troubleshooting Enthusiast</p>
-
+<div align="center" style="
+  font-family: 'Segoe UI', sans-serif; 
+  padding: 2rem; 
+  background: linear-gradient(135deg, #f0f4ff, #e0f7fa); 
+  border-radius: 20px; 
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1); 
+  max-width: 700px; 
+  margin: auto;
+">
+  <h1 style="font-size: 2.8rem; margin-bottom: 0.3rem; color: #222;">🌟 Tushar Temgire</h1>
+  <p style="font-size: 1.2rem; color: #444; margin-bottom: 1.2rem;">
+    👨‍💻 Computer Engineer &nbsp;|&nbsp; ☁️ Cloud Solutions Specialist &nbsp;|&nbsp; 💻 Software Development &nbsp;|&nbsp; 🛠️ API Troubleshooting
+  </p>
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tushartemgire)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TusharTemgire)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:temgiretushar15@gmail.com)
