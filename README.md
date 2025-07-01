@@ -16,6 +16,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TusharTemgire)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:temgiretushar15@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white)](https://tronix-ai-seven.vercel.app/)
+<img src="https://komarev.com/ghpvc/?username=TusharTemgire&color=58A6FF&style=flat-square&label=Views"/>
 </div>
 
 ---
@@ -141,5 +142,4 @@ Learning:
 <div align="center">
   <sub>Eager to solve real-world challenges in software development and cloud computing.</sub>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=TusharTemgire&color=58A6FF&style=flat-square&label=Views"/>
 </div>
