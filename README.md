@@ -61,6 +61,10 @@ I am a Computer Engineer with expertise in AWS cloud, networking, Linux systems,
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python">
       <br>Python
     </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48" height="48" alt="Jenkins">
+        <br>Jenkins
+    </td>
   </tr>
 </table>
 
